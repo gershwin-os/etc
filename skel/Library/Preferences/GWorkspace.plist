@@ -66,7 +66,7 @@
 	<key>imagepath</key>
         <string>/System/Library/Desktop Pictures/purple-abstract.png</string>
 	<key>imagestyle</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>labeltxtsize</key>
 	<integer>12</integer>
 	<key>usebackimage</key>
